@@ -1,0 +1,1018 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [androidx.databinding:viewbinding:8.10.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\30639c1c8938f9b09ada248635e056c5\transformed\jetified-viewbinding-8.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-39:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4b7820fa6662ac3279bd6050ece5c45e\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\eeaac91bb9190e7762d80c0cb4b6c617\transformed\constraintlayout-2.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f93822deb984069cb4442d71ced796f5\transformed\jetified-appcompat-resources-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.android:facebook-android-sdk:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\52e617fd5bd23d067c29c3a269fb1e62\transformed\jetified-facebook-android-sdk-16.3.0\AndroidManifest.xml:9:1-19:12
+MERGED from [com.facebook.android:facebook-login:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\bdbb79e0569d278a013fc59590444c38\transformed\jetified-facebook-login-16.3.0\AndroidManifest.xml:9:1-19:12
+MERGED from [com.facebook.android:facebook-gamingservices:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\7e2e50d50cc6d2670d4e195c991d3b69\transformed\jetified-facebook-gamingservices-16.3.0\AndroidManifest.xml:9:1-19:12
+MERGED from [com.facebook.android:facebook-share:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\8c38fa75314c58bc5d3d5c11c82926f8\transformed\jetified-facebook-share-16.3.0\AndroidManifest.xml:9:1-19:12
+MERGED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:9:1-44:12
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f75bfe9db93ec37227c17b7c447483c0\transformed\appcompat-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\e89bb22cdd380a0077e98a4eafa66ec8\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\fda9a0b3de23db520e67f5a997b8ad2b\transformed\jetified-play-services-ads-23.5.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.facebook.android:audience-network-sdk:6.16.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4f3491393bd6d89c7eb50ada48892b44\transformed\jetified-audience-network-sdk-6.16.0\AndroidManifest.xml:2:1-32:12
+MERGED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:17:1-112:12
+MERGED from [com.google.android.gms:play-services-ads-base:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\5b8fe3b0a4cfc6e1439ed61145f35e6f\transformed\jetified-play-services-ads-base-23.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\0c73835972745003c4883b0eb5528c15\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\036b68cda59a956c8573157115158399\transformed\jetified-play-services-appset-16.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\dfa21ef4566938b0d56fe77be0726fea\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f4f817a496a4c8dce042d00194ae6284\transformed\jetified-play-services-tasks-18.2.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\e4951a372d9f429f2eb31c112d6a75dc\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.ump:user-messaging-platform:3.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\45d161ce3defc31f28aac077f425ca26\transformed\jetified-user-messaging-platform-3.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\55342048c56df5fc3162edc262635a18\transformed\jetified-play-services-measurement-base-20.1.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ab2d56dcc74b9e850d652f2fb71c2b82\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\94184ff9580ba4fd1b3c63777bdb4d57\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\56688d895d79da337a320082832aa935\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4fc3d3c726147767efb9770084208d53\transformed\jetified-activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\8ab6971e076d7d66fd806bc4f8f045a8\transformed\jetified-ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ae75a7f3080b6b0955f60943e10d7480\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:17:1-28:12
+MERGED from [com.facebook.android:facebook-applinks:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\d1e81c217c0c4638530378cda8f78441\transformed\jetified-facebook-applinks-16.3.0\AndroidManifest.xml:9:1-19:12
+MERGED from [com.facebook.android:facebook-messenger:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\17340d885a5a69a2a2e8d3c3f0b2560a\transformed\jetified-facebook-messenger-16.3.0\AndroidManifest.xml:9:1-19:12
+MERGED from [com.facebook.android:facebook-core:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b9b1bb874c0598c55e5fd6774c0bd2f8\transformed\jetified-facebook-core-16.3.0\AndroidManifest.xml:9:1-50:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b2e201a7a9efe32d6dd963aee1335f90\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\1eccce578938c61f57496a24c9cf736a\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\3be5b774491ad5a3b0deb880f8819fec\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\2c0f112e352fb60c3c81c0fe27b1c396\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\901d215c20a87341b2cda29d6ed5c6b8\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\cd416c55813d57adf252d7d7c1c74c13\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\1fc493bd229617339bf96dee6653b115\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\0530ed172ad9e98fbe34d217eba0ba7b\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\0b928d2fe9c1109d2946a9722ef25f7b\transformed\jetified-lifecycle-service-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ff32ff6fe6df8a006252620a6ae3461d\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\256aaac81cb19b1af29bc67033729c2d\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\0d544165d0eab944cb3bb4733fbaa01e\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\351838fac393c491c5399df4876b518c\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\cb182fffd0919a0c77a56a33d7adc70d\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a951946fbd829ac4bfa8916f62e65ec7\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-bolts:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a762024fd17676cf936d715451996044\transformed\jetified-facebook-bolts-16.3.0\AndroidManifest.xml:9:1-19:12
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\629cf6770b37746234f8c2e41429e5ac\transformed\jetified-core-ktx-1.13.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\66bf4b2c38cfbedc89c804c02b613bb6\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ff4e66ce7e1c397924a3dcf92fb397d2\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4edf3f8bc815fcf30ae277291200e41e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\2cf17354cbf033d1c2a5bbfab026e722\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\0bdee1a77096582f0096adc9dc70f3f7\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\e7c615ec79d664f339354618c82eff82\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\89a7a82ec7f808f56d1d3dc0a9f5ac0c\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\c1468bcafe20bdee0890da19afdd3c5e\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.8.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\1c5dfd337538d2606de1eaf08da0ed07\transformed\browser-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.webkit:webkit:1.11.0-alpha02] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\35afebf4efb5b43bb7dba87e48acc5fa\transformed\webkit-1.11.0-alpha02\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\6aec7aef122f8b3dd75f7c04d0ea1c06\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\c739fb752a7d7000bd22d1433bbc1f4a\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\8bdd747f9598040ef7d92968cf1a6f88\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\344beaf8d2d40dadee4d2a2c31b5cd19\transformed\core-1.13.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\43c5d90800322644d8e5f93361cf0836\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a54a34e4bec307ed31ae3a20552ccf52\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\cb6b9a00dd340092fef50db16dd594f6\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\2eacfaa721cc08022a23dfd3af40cd5d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\aff6fc23d667fb903882221335c9ad3a\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\72619c6ebb28d93a1cc452a8a40026f6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b7adce86de6406796c0db78b2de69210\transformed\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\e0c90d11f4f3cae64cad2f5f3e3604ba\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\320fb227f0e27bbaf8bee7c463deb3df\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\7da4f38391291ab1ef099581e40dfd3c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\aa850c6d89d1863f231ac3c596c9e170\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\06e194873389f195a25e9b3228c350c9\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\dcaa15d39548020a7af720b8818d8343\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b280a5c56b8557530cb47847123414f8\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\c624a83c28b8e387b1ee148170c6ddb8\transformed\jetified-roundedimageview-2.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a3c23732781c9ce40f36ad60c5ba3d4f\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:2:1-13:12
+	package
+		INJECTED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:4:5-32:19
+INJECTED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:4:5-32:19
+MERGED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:21:5-37:19
+MERGED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:21:5-37:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4b7820fa6662ac3279bd6050ece5c45e\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4b7820fa6662ac3279bd6050ece5c45e\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\eeaac91bb9190e7762d80c0cb4b6c617\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\eeaac91bb9190e7762d80c0cb4b6c617\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\52e617fd5bd23d067c29c3a269fb1e62\transformed\jetified-facebook-android-sdk-16.3.0\AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-android-sdk:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\52e617fd5bd23d067c29c3a269fb1e62\transformed\jetified-facebook-android-sdk-16.3.0\AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-login:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\bdbb79e0569d278a013fc59590444c38\transformed\jetified-facebook-login-16.3.0\AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-login:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\bdbb79e0569d278a013fc59590444c38\transformed\jetified-facebook-login-16.3.0\AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-gamingservices:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\7e2e50d50cc6d2670d4e195c991d3b69\transformed\jetified-facebook-gamingservices-16.3.0\AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-gamingservices:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\7e2e50d50cc6d2670d4e195c991d3b69\transformed\jetified-facebook-gamingservices-16.3.0\AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-share:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\8c38fa75314c58bc5d3d5c11c82926f8\transformed\jetified-facebook-share-16.3.0\AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-share:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\8c38fa75314c58bc5d3d5c11c82926f8\transformed\jetified-facebook-share-16.3.0\AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:21:5-42:19
+MERGED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:21:5-42:19
+MERGED from [com.facebook.android:audience-network-sdk:6.16.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4f3491393bd6d89c7eb50ada48892b44\transformed\jetified-audience-network-sdk-6.16.0\AndroidManifest.xml:19:5-30:19
+MERGED from [com.facebook.android:audience-network-sdk:6.16.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4f3491393bd6d89c7eb50ada48892b44\transformed\jetified-audience-network-sdk-6.16.0\AndroidManifest.xml:19:5-30:19
+MERGED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:70:5-110:19
+MERGED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:70:5-110:19
+MERGED from [com.google.android.gms:play-services-ads-base:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\5b8fe3b0a4cfc6e1439ed61145f35e6f\transformed\jetified-play-services-ads-base-23.5.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\5b8fe3b0a4cfc6e1439ed61145f35e6f\transformed\jetified-play-services-ads-base-23.5.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\0c73835972745003c4883b0eb5528c15\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\0c73835972745003c4883b0eb5528c15\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\036b68cda59a956c8573157115158399\transformed\jetified-play-services-appset-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\036b68cda59a956c8573157115158399\transformed\jetified-play-services-appset-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\dfa21ef4566938b0d56fe77be0726fea\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\dfa21ef4566938b0d56fe77be0726fea\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f4f817a496a4c8dce042d00194ae6284\transformed\jetified-play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f4f817a496a4c8dce042d00194ae6284\transformed\jetified-play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\55342048c56df5fc3162edc262635a18\transformed\jetified-play-services-measurement-base-20.1.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\55342048c56df5fc3162edc262635a18\transformed\jetified-play-services-measurement-base-20.1.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ab2d56dcc74b9e850d652f2fb71c2b82\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ab2d56dcc74b9e850d652f2fb71c2b82\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ae75a7f3080b6b0955f60943e10d7480\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ae75a7f3080b6b0955f60943e10d7480\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.android:facebook-applinks:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\d1e81c217c0c4638530378cda8f78441\transformed\jetified-facebook-applinks-16.3.0\AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-applinks:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\d1e81c217c0c4638530378cda8f78441\transformed\jetified-facebook-applinks-16.3.0\AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-messenger:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\17340d885a5a69a2a2e8d3c3f0b2560a\transformed\jetified-facebook-messenger-16.3.0\AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-messenger:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\17340d885a5a69a2a2e8d3c3f0b2560a\transformed\jetified-facebook-messenger-16.3.0\AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-core:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b9b1bb874c0598c55e5fd6774c0bd2f8\transformed\jetified-facebook-core-16.3.0\AndroidManifest.xml:18:5-48:19
+MERGED from [com.facebook.android:facebook-core:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b9b1bb874c0598c55e5fd6774c0bd2f8\transformed\jetified-facebook-core-16.3.0\AndroidManifest.xml:18:5-48:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\3be5b774491ad5a3b0deb880f8819fec\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\3be5b774491ad5a3b0deb880f8819fec\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\0d544165d0eab944cb3bb4733fbaa01e\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\0d544165d0eab944cb3bb4733fbaa01e\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [com.facebook.android:facebook-bolts:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a762024fd17676cf936d715451996044\transformed\jetified-facebook-bolts-16.3.0\AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-bolts:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a762024fd17676cf936d715451996044\transformed\jetified-facebook-bolts-16.3.0\AndroidManifest.xml:16:5-17:19
+MERGED from [androidx.core:core:1.13.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\344beaf8d2d40dadee4d2a2c31b5cd19\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\344beaf8d2d40dadee4d2a2c31b5cd19\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\cb6b9a00dd340092fef50db16dd594f6\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\cb6b9a00dd340092fef50db16dd594f6\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\72619c6ebb28d93a1cc452a8a40026f6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\72619c6ebb28d93a1cc452a8a40026f6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b7adce86de6406796c0db78b2de69210\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b7adce86de6406796c0db78b2de69210\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a3c23732781c9ce40f36ad60c5ba3d4f\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a3c23732781c9ce40f36ad60c5ba3d4f\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:11:5-20
+	android:extractNativeLibs
+		INJECTED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\344beaf8d2d40dadee4d2a2c31b5cd19\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:7:9-35
+	android:label
+		ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:6:9-41
+	android:roundIcon
+		ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:8:9-57
+activity#com.service.callerdialog.OverlayPermisiion_Activity
+ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:9:9-11:40
+	android:exported
+		ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:10:13-55
+activity#com.service.callerdialog.Splace_Activity
+ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:exported
+		ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:13:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.service.callerdialog.Permission_activity
+ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:21:9-23:40
+	android:exported
+		ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:22:13-48
+activity#com.service.callerdialog.MainActivity
+ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:24:9-26:40
+	android:exported
+		ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:25:13-41
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:29:9-31:70
+	android:value
+		ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:31:13-67
+	android:name
+		ADDED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml:30:13-69
+uses-sdk
+INJECTED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml
+INJECTED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.10.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\30639c1c8938f9b09ada248635e056c5\transformed\jetified-viewbinding-8.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.10.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\30639c1c8938f9b09ada248635e056c5\transformed\jetified-viewbinding-8.10.1\AndroidManifest.xml:5:5-44
+MERGED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4b7820fa6662ac3279bd6050ece5c45e\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4b7820fa6662ac3279bd6050ece5c45e\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\eeaac91bb9190e7762d80c0cb4b6c617\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\eeaac91bb9190e7762d80c0cb4b6c617\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f93822deb984069cb4442d71ced796f5\transformed\jetified-appcompat-resources-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f93822deb984069cb4442d71ced796f5\transformed\jetified-appcompat-resources-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.android:facebook-android-sdk:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\52e617fd5bd23d067c29c3a269fb1e62\transformed\jetified-facebook-android-sdk-16.3.0\AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-android-sdk:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\52e617fd5bd23d067c29c3a269fb1e62\transformed\jetified-facebook-android-sdk-16.3.0\AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-login:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\bdbb79e0569d278a013fc59590444c38\transformed\jetified-facebook-login-16.3.0\AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-login:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\bdbb79e0569d278a013fc59590444c38\transformed\jetified-facebook-login-16.3.0\AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-gamingservices:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\7e2e50d50cc6d2670d4e195c991d3b69\transformed\jetified-facebook-gamingservices-16.3.0\AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-gamingservices:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\7e2e50d50cc6d2670d4e195c991d3b69\transformed\jetified-facebook-gamingservices-16.3.0\AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-share:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\8c38fa75314c58bc5d3d5c11c82926f8\transformed\jetified-facebook-share-16.3.0\AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-share:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\8c38fa75314c58bc5d3d5c11c82926f8\transformed\jetified-facebook-share-16.3.0\AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:13:5-15:41
+MERGED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:13:5-15:41
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f75bfe9db93ec37227c17b7c447483c0\transformed\appcompat-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f75bfe9db93ec37227c17b7c447483c0\transformed\appcompat-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\e89bb22cdd380a0077e98a4eafa66ec8\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\e89bb22cdd380a0077e98a4eafa66ec8\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\fda9a0b3de23db520e67f5a997b8ad2b\transformed\jetified-play-services-ads-23.5.0\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\fda9a0b3de23db520e67f5a997b8ad2b\transformed\jetified-play-services-ads-23.5.0\AndroidManifest.xml:21:5-23:52
+MERGED from [com.facebook.android:audience-network-sdk:6.16.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4f3491393bd6d89c7eb50ada48892b44\transformed\jetified-audience-network-sdk-6.16.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:audience-network-sdk:6.16.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4f3491393bd6d89c7eb50ada48892b44\transformed\jetified-audience-network-sdk-6.16.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\5b8fe3b0a4cfc6e1439ed61145f35e6f\transformed\jetified-play-services-ads-base-23.5.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\5b8fe3b0a4cfc6e1439ed61145f35e6f\transformed\jetified-play-services-ads-base-23.5.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\0c73835972745003c4883b0eb5528c15\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\0c73835972745003c4883b0eb5528c15\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\036b68cda59a956c8573157115158399\transformed\jetified-play-services-appset-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\036b68cda59a956c8573157115158399\transformed\jetified-play-services-appset-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\dfa21ef4566938b0d56fe77be0726fea\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\dfa21ef4566938b0d56fe77be0726fea\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f4f817a496a4c8dce042d00194ae6284\transformed\jetified-play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f4f817a496a4c8dce042d00194ae6284\transformed\jetified-play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\e4951a372d9f429f2eb31c112d6a75dc\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\e4951a372d9f429f2eb31c112d6a75dc\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:3.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\45d161ce3defc31f28aac077f425ca26\transformed\jetified-user-messaging-platform-3.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:3.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\45d161ce3defc31f28aac077f425ca26\transformed\jetified-user-messaging-platform-3.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\55342048c56df5fc3162edc262635a18\transformed\jetified-play-services-measurement-base-20.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\55342048c56df5fc3162edc262635a18\transformed\jetified-play-services-measurement-base-20.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ab2d56dcc74b9e850d652f2fb71c2b82\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ab2d56dcc74b9e850d652f2fb71c2b82\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\94184ff9580ba4fd1b3c63777bdb4d57\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\94184ff9580ba4fd1b3c63777bdb4d57\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\56688d895d79da337a320082832aa935\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\56688d895d79da337a320082832aa935\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4fc3d3c726147767efb9770084208d53\transformed\jetified-activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4fc3d3c726147767efb9770084208d53\transformed\jetified-activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\8ab6971e076d7d66fd806bc4f8f045a8\transformed\jetified-ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\8ab6971e076d7d66fd806bc4f8f045a8\transformed\jetified-ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ae75a7f3080b6b0955f60943e10d7480\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ae75a7f3080b6b0955f60943e10d7480\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-applinks:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\d1e81c217c0c4638530378cda8f78441\transformed\jetified-facebook-applinks-16.3.0\AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-applinks:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\d1e81c217c0c4638530378cda8f78441\transformed\jetified-facebook-applinks-16.3.0\AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-messenger:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\17340d885a5a69a2a2e8d3c3f0b2560a\transformed\jetified-facebook-messenger-16.3.0\AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-messenger:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\17340d885a5a69a2a2e8d3c3f0b2560a\transformed\jetified-facebook-messenger-16.3.0\AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-core:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b9b1bb874c0598c55e5fd6774c0bd2f8\transformed\jetified-facebook-core-16.3.0\AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-core:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b9b1bb874c0598c55e5fd6774c0bd2f8\transformed\jetified-facebook-core-16.3.0\AndroidManifest.xml:12:5-14:41
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b2e201a7a9efe32d6dd963aee1335f90\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b2e201a7a9efe32d6dd963aee1335f90\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\1eccce578938c61f57496a24c9cf736a\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\1eccce578938c61f57496a24c9cf736a\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\3be5b774491ad5a3b0deb880f8819fec\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\3be5b774491ad5a3b0deb880f8819fec\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\2c0f112e352fb60c3c81c0fe27b1c396\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\2c0f112e352fb60c3c81c0fe27b1c396\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\901d215c20a87341b2cda29d6ed5c6b8\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\901d215c20a87341b2cda29d6ed5c6b8\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\cd416c55813d57adf252d7d7c1c74c13\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\cd416c55813d57adf252d7d7c1c74c13\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\1fc493bd229617339bf96dee6653b115\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\1fc493bd229617339bf96dee6653b115\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\0530ed172ad9e98fbe34d217eba0ba7b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\0530ed172ad9e98fbe34d217eba0ba7b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\0b928d2fe9c1109d2946a9722ef25f7b\transformed\jetified-lifecycle-service-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\0b928d2fe9c1109d2946a9722ef25f7b\transformed\jetified-lifecycle-service-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ff32ff6fe6df8a006252620a6ae3461d\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ff32ff6fe6df8a006252620a6ae3461d\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\256aaac81cb19b1af29bc67033729c2d\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\256aaac81cb19b1af29bc67033729c2d\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\0d544165d0eab944cb3bb4733fbaa01e\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\0d544165d0eab944cb3bb4733fbaa01e\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\351838fac393c491c5399df4876b518c\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\351838fac393c491c5399df4876b518c\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\cb182fffd0919a0c77a56a33d7adc70d\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\cb182fffd0919a0c77a56a33d7adc70d\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a951946fbd829ac4bfa8916f62e65ec7\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a951946fbd829ac4bfa8916f62e65ec7\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-bolts:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a762024fd17676cf936d715451996044\transformed\jetified-facebook-bolts-16.3.0\AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-bolts:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a762024fd17676cf936d715451996044\transformed\jetified-facebook-bolts-16.3.0\AndroidManifest.xml:12:5-14:41
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\629cf6770b37746234f8c2e41429e5ac\transformed\jetified-core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\629cf6770b37746234f8c2e41429e5ac\transformed\jetified-core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\66bf4b2c38cfbedc89c804c02b613bb6\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\66bf4b2c38cfbedc89c804c02b613bb6\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ff4e66ce7e1c397924a3dcf92fb397d2\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ff4e66ce7e1c397924a3dcf92fb397d2\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4edf3f8bc815fcf30ae277291200e41e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4edf3f8bc815fcf30ae277291200e41e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\2cf17354cbf033d1c2a5bbfab026e722\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\2cf17354cbf033d1c2a5bbfab026e722\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\0bdee1a77096582f0096adc9dc70f3f7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\0bdee1a77096582f0096adc9dc70f3f7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\e7c615ec79d664f339354618c82eff82\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\e7c615ec79d664f339354618c82eff82\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\89a7a82ec7f808f56d1d3dc0a9f5ac0c\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\89a7a82ec7f808f56d1d3dc0a9f5ac0c\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\c1468bcafe20bdee0890da19afdd3c5e\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\c1468bcafe20bdee0890da19afdd3c5e\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.8.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\1c5dfd337538d2606de1eaf08da0ed07\transformed\browser-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.8.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\1c5dfd337538d2606de1eaf08da0ed07\transformed\browser-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.webkit:webkit:1.11.0-alpha02] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\35afebf4efb5b43bb7dba87e48acc5fa\transformed\webkit-1.11.0-alpha02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.webkit:webkit:1.11.0-alpha02] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\35afebf4efb5b43bb7dba87e48acc5fa\transformed\webkit-1.11.0-alpha02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\6aec7aef122f8b3dd75f7c04d0ea1c06\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\6aec7aef122f8b3dd75f7c04d0ea1c06\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\c739fb752a7d7000bd22d1433bbc1f4a\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\c739fb752a7d7000bd22d1433bbc1f4a\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\8bdd747f9598040ef7d92968cf1a6f88\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\8bdd747f9598040ef7d92968cf1a6f88\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\344beaf8d2d40dadee4d2a2c31b5cd19\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\344beaf8d2d40dadee4d2a2c31b5cd19\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\43c5d90800322644d8e5f93361cf0836\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\43c5d90800322644d8e5f93361cf0836\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a54a34e4bec307ed31ae3a20552ccf52\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a54a34e4bec307ed31ae3a20552ccf52\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\cb6b9a00dd340092fef50db16dd594f6\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\cb6b9a00dd340092fef50db16dd594f6\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\2eacfaa721cc08022a23dfd3af40cd5d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\2eacfaa721cc08022a23dfd3af40cd5d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\aff6fc23d667fb903882221335c9ad3a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\aff6fc23d667fb903882221335c9ad3a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\72619c6ebb28d93a1cc452a8a40026f6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\72619c6ebb28d93a1cc452a8a40026f6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b7adce86de6406796c0db78b2de69210\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b7adce86de6406796c0db78b2de69210\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\e0c90d11f4f3cae64cad2f5f3e3604ba\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\e0c90d11f4f3cae64cad2f5f3e3604ba\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\320fb227f0e27bbaf8bee7c463deb3df\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\320fb227f0e27bbaf8bee7c463deb3df\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\7da4f38391291ab1ef099581e40dfd3c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\7da4f38391291ab1ef099581e40dfd3c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\aa850c6d89d1863f231ac3c596c9e170\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\aa850c6d89d1863f231ac3c596c9e170\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\06e194873389f195a25e9b3228c350c9\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\06e194873389f195a25e9b3228c350c9\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\dcaa15d39548020a7af720b8818d8343\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\dcaa15d39548020a7af720b8818d8343\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b280a5c56b8557530cb47847123414f8\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b280a5c56b8557530cb47847123414f8\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\c624a83c28b8e387b1ee148170c6ddb8\transformed\jetified-roundedimageview-2.3.0\AndroidManifest.xml:7:5-43
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\c624a83c28b8e387b1ee148170c6ddb8\transformed\jetified-roundedimageview-2.3.0\AndroidManifest.xml:7:5-43
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a3c23732781c9ce40f36ad60c5ba3d4f\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a3c23732781c9ce40f36ad60c5ba3d4f\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\fda9a0b3de23db520e67f5a997b8ad2b\transformed\jetified-play-services-ads-23.5.0\AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.telephony
+ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:7:5-9:36
+	android:required
+		ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:9:9-33
+	android:name
+		ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:8:9-50
+uses-permission#android.permission.INTERNET
+ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:11:5-67
+MERGED from [com.facebook.android:audience-network-sdk:6.16.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4f3491393bd6d89c7eb50ada48892b44\transformed\jetified-audience-network-sdk-6.16.0\AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.android:audience-network-sdk:6.16.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4f3491393bd6d89c7eb50ada48892b44\transformed\jetified-audience-network-sdk-6.16.0\AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\e4951a372d9f429f2eb31c112d6a75dc\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\e4951a372d9f429f2eb31c112d6a75dc\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:12:5-81
+REJECTED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:30:5-32:31
+REJECTED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:13:22-72
+uses-permission#android.permission.CALL_PHONE
+ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:14:5-69
+	android:name
+		ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:14:22-66
+uses-permission#android.permission.MANAGE_OWN_CALLS
+ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:16:5-77
+	android:name
+		ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:16:22-74
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:17:5-78
+	android:name
+		ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:17:22-75
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:18:5-77
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:28:5-77
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:18:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_PHONE_CALL
+ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:19:5-88
+	android:name
+		ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:19:22-85
+service#com.libraryofCall.CallFloatingDialog.Service.CallMonitorForegroundService
+ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:28:9-33:44
+	android:enabled
+		ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:31:13-36
+	android:stopWithTask
+		ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:33:13-41
+	android:foregroundServiceType
+		ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:32:13-54
+	android:name
+		ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:29:13-101
+service#com.libraryofCall.CallFloatingDialog.Service.FloatingDialogService
+ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:34:9-36:40
+	android:exported
+		ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from [:callerdialog] D:\Office\YG_X_console\Adroid_apps\Augest2025\Demo_app\CallerDialogService_with_resources\callerdialog\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:35:13-94
+queries
+ADDED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:17:5-19:15
+MERGED from [com.facebook.android:audience-network-sdk:6.16.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4f3491393bd6d89c7eb50ada48892b44\transformed\jetified-audience-network-sdk-6.16.0\AndroidManifest.xml:11:5-13:15
+MERGED from [com.facebook.android:audience-network-sdk:6.16.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4f3491393bd6d89c7eb50ada48892b44\transformed\jetified-audience-network-sdk-6.16.0\AndroidManifest.xml:11:5-13:15
+MERGED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:35:5-68:15
+MERGED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:35:5-68:15
+package#com.facebook.katana
+ADDED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:18:9-55
+MERGED from [com.facebook.android:audience-network-sdk:6.16.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4f3491393bd6d89c7eb50ada48892b44\transformed\jetified-audience-network-sdk-6.16.0\AndroidManifest.xml:12:9-55
+MERGED from [com.facebook.android:audience-network-sdk:6.16.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4f3491393bd6d89c7eb50ada48892b44\transformed\jetified-audience-network-sdk-6.16.0\AndroidManifest.xml:12:9-55
+	android:name
+		ADDED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:18:18-52
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:22:9-25:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:24:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:25:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:23:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:26:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:26:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:27:9-41:20
+	tools:node
+		ADDED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:30:13-31
+	android:exported
+		ADDED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:28:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.${applicationId}+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:31:13-40:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.service.callerdialog+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:31:13-40:29
+action#android.intent.action.VIEW
+ADDED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:32:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:34:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:35:17-78
+	android:name
+		ADDED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:35:27-75
+data
+ADDED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:37:17-39:50
+	android:host
+		ADDED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:38:21-56
+	android:scheme
+		ADDED from [com.facebook.android:facebook-common:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a166d0a57430d4a8c0dc43e3b71b28d5\transformed\jetified-facebook-common-16.3.0\AndroidManifest.xml:39:21-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.facebook.android:audience-network-sdk:6.16.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4f3491393bd6d89c7eb50ada48892b44\transformed\jetified-audience-network-sdk-6.16.0\AndroidManifest.xml:16:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\e4951a372d9f429f2eb31c112d6a75dc\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\e4951a372d9f429f2eb31c112d6a75dc\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:24:5-79
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:6.16.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4f3491393bd6d89c7eb50ada48892b44\transformed\jetified-audience-network-sdk-6.16.0\AndroidManifest.xml:16:22-76
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.facebook.android:audience-network-sdk:6.16.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4f3491393bd6d89c7eb50ada48892b44\transformed\jetified-audience-network-sdk-6.16.0\AndroidManifest.xml:17:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\0c73835972745003c4883b0eb5528c15\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\0c73835972745003c4883b0eb5528c15\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\e4951a372d9f429f2eb31c112d6a75dc\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\e4951a372d9f429f2eb31c112d6a75dc\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:26:5-79
+MERGED from [com.facebook.android:facebook-core:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b9b1bb874c0598c55e5fd6774c0bd2f8\transformed\jetified-facebook-core-16.3.0\AndroidManifest.xml:16:5-79
+MERGED from [com.facebook.android:facebook-core:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b9b1bb874c0598c55e5fd6774c0bd2f8\transformed\jetified-facebook-core-16.3.0\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:6.16.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4f3491393bd6d89c7eb50ada48892b44\transformed\jetified-audience-network-sdk-6.16.0\AndroidManifest.xml:17:22-76
+activity#com.facebook.ads.AudienceNetworkActivity
+ADDED from [com.facebook.android:audience-network-sdk:6.16.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4f3491393bd6d89c7eb50ada48892b44\transformed\jetified-audience-network-sdk-6.16.0\AndroidManifest.xml:20:9-24:75
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:6.16.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4f3491393bd6d89c7eb50ada48892b44\transformed\jetified-audience-network-sdk-6.16.0\AndroidManifest.xml:23:13-37
+	android:configChanges
+		ADDED from [com.facebook.android:audience-network-sdk:6.16.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4f3491393bd6d89c7eb50ada48892b44\transformed\jetified-audience-network-sdk-6.16.0\AndroidManifest.xml:22:13-106
+	android:theme
+		ADDED from [com.facebook.android:audience-network-sdk:6.16.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4f3491393bd6d89c7eb50ada48892b44\transformed\jetified-audience-network-sdk-6.16.0\AndroidManifest.xml:24:13-72
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:6.16.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4f3491393bd6d89c7eb50ada48892b44\transformed\jetified-audience-network-sdk-6.16.0\AndroidManifest.xml:21:13-68
+provider#com.facebook.ads.AudienceNetworkContentProvider
+ADDED from [com.facebook.android:audience-network-sdk:6.16.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4f3491393bd6d89c7eb50ada48892b44\transformed\jetified-audience-network-sdk-6.16.0\AndroidManifest.xml:26:9-29:40
+	android:authorities
+		ADDED from [com.facebook.android:audience-network-sdk:6.16.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4f3491393bd6d89c7eb50ada48892b44\transformed\jetified-audience-network-sdk-6.16.0\AndroidManifest.xml:28:13-82
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:6.16.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4f3491393bd6d89c7eb50ada48892b44\transformed\jetified-audience-network-sdk-6.16.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:6.16.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\4f3491393bd6d89c7eb50ada48892b44\transformed\jetified-audience-network-sdk-6.16.0\AndroidManifest.xml:27:13-75
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:27:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:27:22-79
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:28:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:28:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_TOPICS
+ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:29:5-83
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:29:22-80
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:38:9-44:18
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:47:9-49:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:48:13-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:48:21-87
+intent#action:name:android.intent.action.INSERT+data:mimeType:vnd.android.cursor.dir/event
+ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:52:9-56:18
+action#android.intent.action.INSERT
+ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:53:13-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:53:21-64
+intent#action:name:android.intent.action.VIEW+data:scheme:sms
+ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:57:9-61:18
+intent#action:name:android.intent.action.DIAL+data:path:tel:
+ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:62:9-66:18
+action#android.intent.action.DIAL
+ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:63:13-65
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:63:21-62
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:73:9-78:43
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:76:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:78:13-40
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:75:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:77:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:74:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:80:9-85:43
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:82:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:83:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:85:13-40
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:84:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:81:13-76
+service#com.google.android.gms.ads.AdService
+ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:87:9-91:43
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:89:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:90:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:91:13-40
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:88:13-64
+activity#com.google.android.gms.ads.OutOfContextTestingActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:93:9-97:43
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:96:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:97:13-40
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:95:13-122
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:94:13-82
+activity#com.google.android.gms.ads.NotificationHandlerActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:98:9-105:43
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:100:13-46
+	android:launchMode
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:102:13-44
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:101:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:105:13-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:104:13-72
+	android:taskAffinity
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:103:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:99:13-82
+property#android.adservices.AD_SERVICES_CONFIG
+ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:107:9-109:62
+	android:resource
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:109:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.5.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ee457f184b99bd0e1b1fc989f039785f\transformed\jetified-play-services-ads-lite-23.5.0\AndroidManifest.xml:108:13-65
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\dfa21ef4566938b0d56fe77be0726fea\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\dfa21ef4566938b0d56fe77be0726fea\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\dfa21ef4566938b0d56fe77be0726fea\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\dfa21ef4566938b0d56fe77be0726fea\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:20:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\e4951a372d9f429f2eb31c112d6a75dc\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\e4951a372d9f429f2eb31c112d6a75dc\transformed\jetified-play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:25:22-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ab2d56dcc74b9e850d652f2fb71c2b82\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ab2d56dcc74b9e850d652f2fb71c2b82\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ab2d56dcc74b9e850d652f2fb71c2b82\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ae75a7f3080b6b0955f60943e10d7480\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ae75a7f3080b6b0955f60943e10d7480\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\ae75a7f3080b6b0955f60943e10d7480\transformed\jetified-ads-adservices-1.0.0-beta05\AndroidManifest.xml:24:13-50
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b9b1bb874c0598c55e5fd6774c0bd2f8\transformed\jetified-facebook-core-16.3.0\AndroidManifest.xml:29:9-32:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b9b1bb874c0598c55e5fd6774c0bd2f8\transformed\jetified-facebook-core-16.3.0\AndroidManifest.xml:31:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b9b1bb874c0598c55e5fd6774c0bd2f8\transformed\jetified-facebook-core-16.3.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b9b1bb874c0598c55e5fd6774c0bd2f8\transformed\jetified-facebook-core-16.3.0\AndroidManifest.xml:30:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b9b1bb874c0598c55e5fd6774c0bd2f8\transformed\jetified-facebook-core-16.3.0\AndroidManifest.xml:34:9-40:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b9b1bb874c0598c55e5fd6774c0bd2f8\transformed\jetified-facebook-core-16.3.0\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b9b1bb874c0598c55e5fd6774c0bd2f8\transformed\jetified-facebook-core-16.3.0\AndroidManifest.xml:35:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b9b1bb874c0598c55e5fd6774c0bd2f8\transformed\jetified-facebook-core-16.3.0\AndroidManifest.xml:37:13-39:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b9b1bb874c0598c55e5fd6774c0bd2f8\transformed\jetified-facebook-core-16.3.0\AndroidManifest.xml:38:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b9b1bb874c0598c55e5fd6774c0bd2f8\transformed\jetified-facebook-core-16.3.0\AndroidManifest.xml:38:25-92
+receiver#com.facebook.AuthenticationTokenManager$CurrentAuthenticationTokenChangedBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b9b1bb874c0598c55e5fd6774c0bd2f8\transformed\jetified-facebook-core-16.3.0\AndroidManifest.xml:41:9-47:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b9b1bb874c0598c55e5fd6774c0bd2f8\transformed\jetified-facebook-core-16.3.0\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b9b1bb874c0598c55e5fd6774c0bd2f8\transformed\jetified-facebook-core-16.3.0\AndroidManifest.xml:42:13-118
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b9b1bb874c0598c55e5fd6774c0bd2f8\transformed\jetified-facebook-core-16.3.0\AndroidManifest.xml:44:13-46:29
+action#com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b9b1bb874c0598c55e5fd6774c0bd2f8\transformed\jetified-facebook-core-16.3.0\AndroidManifest.xml:45:17-103
+	android:name
+		ADDED from [com.facebook.android:facebook-core:16.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b9b1bb874c0598c55e5fd6774c0bd2f8\transformed\jetified-facebook-core-16.3.0\AndroidManifest.xml:45:25-100
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\3be5b774491ad5a3b0deb880f8819fec\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\0d544165d0eab944cb3bb4733fbaa01e\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\0d544165d0eab944cb3bb4733fbaa01e\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\cb6b9a00dd340092fef50db16dd594f6\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\cb6b9a00dd340092fef50db16dd594f6\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\3be5b774491ad5a3b0deb880f8819fec\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\3be5b774491ad5a3b0deb880f8819fec\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\3be5b774491ad5a3b0deb880f8819fec\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\3be5b774491ad5a3b0deb880f8819fec\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\3be5b774491ad5a3b0deb880f8819fec\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\3be5b774491ad5a3b0deb880f8819fec\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\3be5b774491ad5a3b0deb880f8819fec\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:36:13-38:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:37:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\49286a3adf4d8bce896324b4c9ce35d2\transformed\work-runtime-2.7.0\AndroidManifest.xml:140:25-85
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\0d544165d0eab944cb3bb4733fbaa01e\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\0d544165d0eab944cb3bb4733fbaa01e\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\0d544165d0eab944cb3bb4733fbaa01e\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\344beaf8d2d40dadee4d2a2c31b5cd19\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\344beaf8d2d40dadee4d2a2c31b5cd19\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\344beaf8d2d40dadee4d2a2c31b5cd19\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+permission#com.service.callerdialog.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\344beaf8d2d40dadee4d2a2c31b5cd19\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\344beaf8d2d40dadee4d2a2c31b5cd19\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\344beaf8d2d40dadee4d2a2c31b5cd19\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\344beaf8d2d40dadee4d2a2c31b5cd19\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\344beaf8d2d40dadee4d2a2c31b5cd19\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+uses-permission#com.service.callerdialog.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\344beaf8d2d40dadee4d2a2c31b5cd19\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\344beaf8d2d40dadee4d2a2c31b5cd19\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\f707bf5e39c7971d29b70a7001454b51\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b7adce86de6406796c0db78b2de69210\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b7adce86de6406796c0db78b2de69210\transformed\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b7adce86de6406796c0db78b2de69210\transformed\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\b7adce86de6406796c0db78b2de69210\transformed\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a3c23732781c9ce40f36ad60c5ba3d4f\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Jayswaminarayan\.gradle\caches\9.0-milestone-1\transforms\a3c23732781c9ce40f36ad60c5ba3d4f\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:9:22-107

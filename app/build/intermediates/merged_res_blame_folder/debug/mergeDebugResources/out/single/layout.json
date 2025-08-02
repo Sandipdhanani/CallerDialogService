@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.service.callerdialog.app-mergeDebugResources-46:/layout/activity_splace.xml",
+        "source": "com.service.callerdialog.app-main-49:/layout/activity_splace.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jayswaminarayan\\.gradle\\daemon\\9.0-milestone-1\\com.service.callerdialog.app-mergeDebugResources-46:\\layout\\activity_permission.xml",
+        "source": "C:\\Users\\Jayswaminarayan\\.gradle\\daemon\\9.0-milestone-1\\com.service.callerdialog.app-main-49:\\layout\\activity_permission.xml"
+    },
+    {
+        "merged": "com.service.callerdialog.app-mergeDebugResources-46:/layout/activity_permission.xml",
+        "source": "com.service.callerdialog.app-main-49:/layout/activity_permission.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jayswaminarayan\\.gradle\\daemon\\9.0-milestone-1\\com.service.callerdialog.app-mergeDebugResources-46:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Jayswaminarayan\\.gradle\\daemon\\9.0-milestone-1\\com.service.callerdialog.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.service.callerdialog.app-mergeDebugResources-46:/layout/activity_overlay_permisiion.xml",
+        "source": "com.service.callerdialog.app-main-49:/layout/activity_overlay_permisiion.xml"
+    }
+]

@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+id btn_permission
+id main
+id text_view
+layout activity_main
+layout activity_overlay_permisiion
+layout activity_permission
+layout activity_splace
+string app_name
+style Theme.CallerDialogService
