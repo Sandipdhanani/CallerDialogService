@@ -4,19 +4,31 @@
         "source": "C:\\Users\\Jayswaminarayan\\.gradle\\daemon\\9.0-milestone-1\\com.service.callerdialog.app-main-49:\\layout\\activity_permission.xml"
     },
     {
-        "merged": "com.service.callerdialog.app-debug-47:/layout_activity_splace.xml.flat",
-        "source": "com.service.callerdialog.app-main-49:/layout/activity_splace.xml"
+        "merged": "C:\\Users\\Jayswaminarayan\\.gradle\\daemon\\9.0-milestone-1\\com.service.callerdialog.app-debug-47:\\layout_activity_overlay_permisiion.xml.flat",
+        "source": "C:\\Users\\Jayswaminarayan\\.gradle\\daemon\\9.0-milestone-1\\com.service.callerdialog.app-main-49:\\layout\\activity_overlay_permisiion.xml"
+    },
+    {
+        "merged": "com.service.callerdialog.app-debug-47:/drawable_ic_share_app.xml.flat",
+        "source": "com.service.callerdialog.app-main-49:/drawable/ic_share_app.xml"
+    },
+    {
+        "merged": "com.service.callerdialog.app-debug-47:/drawable_ic_rate_app.xml.flat",
+        "source": "com.service.callerdialog.app-main-49:/drawable/ic_rate_app.xml"
+    },
+    {
+        "merged": "com.service.callerdialog.app-debug-47:/drawable_ic_home.png.flat",
+        "source": "com.service.callerdialog.app-main-49:/drawable/ic_home.png"
     },
     {
         "merged": "C:\\Users\\Jayswaminarayan\\.gradle\\daemon\\9.0-milestone-1\\com.service.callerdialog.app-debug-47:\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\Jayswaminarayan\\.gradle\\daemon\\9.0-milestone-1\\com.service.callerdialog.app-main-49:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.service.callerdialog.app-debug-47:/layout_activity_overlay_permisiion.xml.flat",
-        "source": "com.service.callerdialog.app-main-49:/layout/activity_overlay_permisiion.xml"
+        "merged": "C:\\Users\\Jayswaminarayan\\.gradle\\daemon\\9.0-milestone-1\\com.service.callerdialog.app-debug-47:\\drawable_buttone_bg.xml.flat",
+        "source": "C:\\Users\\Jayswaminarayan\\.gradle\\daemon\\9.0-milestone-1\\com.service.callerdialog.app-main-49:\\drawable\\buttone_bg.xml"
     },
     {
-        "merged": "com.service.callerdialog.app-debug-47:/layout_activity_permission.xml.flat",
-        "source": "com.service.callerdialog.app-main-49:/layout/activity_permission.xml"
+        "merged": "C:\\Users\\Jayswaminarayan\\.gradle\\daemon\\9.0-milestone-1\\com.service.callerdialog.app-debug-47:\\layout_activity_splace.xml.flat",
+        "source": "C:\\Users\\Jayswaminarayan\\.gradle\\daemon\\9.0-milestone-1\\com.service.callerdialog.app-main-49:\\layout\\activity_splace.xml"
     }
 ]

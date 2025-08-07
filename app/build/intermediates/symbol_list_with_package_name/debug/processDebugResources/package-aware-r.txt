@@ -1413,6 +1413,7 @@ color background_floating_material_light
 color background_material_dark
 color background_material_light
 color black
+color blue
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
 color bright_foreground_inverse_material_dark
@@ -1509,6 +1510,7 @@ color foreground_material_dark
 color foreground_material_light
 color green
 color grey_low
+color hader_color
 color highlighted_text_material_dark
 color highlighted_text_material_light
 color m3_appbar_overlay_color
@@ -3108,6 +3110,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable buttone_bg
 drawable call_details_icon
 drawable circle_shape
 drawable com_facebook_auth_dialog_background
@@ -3170,6 +3173,7 @@ drawable ic_call_decline_low
 drawable ic_clear_black_24
 drawable ic_clock_black_24dp
 drawable ic_close_white
+drawable ic_home
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
@@ -3181,7 +3185,9 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_person_24
+drawable ic_rate_app
 drawable ic_search_black_24
+drawable ic_share_app
 drawable indeterminate_static
 drawable m3_avd_hide_password
 drawable m3_avd_show_password
@@ -3367,6 +3373,7 @@ id animateToEnd
 id animateToStart
 id antiClockwise
 id anticipate
+id app_name
 id arc
 id asConfigured
 id async
@@ -3394,10 +3401,21 @@ id browser_actions_menu_item_icon
 id browser_actions_menu_item_text
 id browser_actions_menu_items
 id browser_actions_menu_view
-id btn_block
+id btn_img_1
+id btn_img_2
+id btn_img_3
+id btn_lin_1
+id btn_lin_2
+id btn_lin_3
 id btn_permission
+id btn_txt_1
+id btn_txt_2
+id btn_txt_3
 id button
 id buttonPanel
+id button_1
+id button_2
+id button_3
 id cache_measures
 id callMeasure
 id callerName
@@ -3570,7 +3588,6 @@ id line3
 id linear
 id listMode
 id list_item
-id logo
 id m3_side_sheet
 id main
 id marquee
@@ -3780,9 +3797,6 @@ id tag_accessibility_actions
 id tag_accessibility_clickable_spans
 id tag_accessibility_heading
 id tag_accessibility_pane_title
-id tag_icon
-id tag_lay
-id tag_name
 id tag_on_apply_window_listener
 id tag_on_receive_content_listener
 id tag_on_receive_content_mime_types
@@ -3828,6 +3842,7 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id txt_adtag
 id unchecked
 id uniform
 id unknown
@@ -3839,7 +3854,6 @@ id vertical_only
 id viewEnd
 id viewStart
 id view_offset_helper
-id view_profile
 id view_transition
 id view_tree_lifecycle_owner
 id view_tree_on_back_pressed_dispatcher_owner
@@ -3848,7 +3862,6 @@ id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
 id west
-id who_profile
 id wide
 id withText
 id with_icon

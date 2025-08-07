@@ -1,10 +1,12 @@
 plugins {
     id 'com.android.library'
+    id 'maven-publish'
 }
 
 android {
     compileSdk 36
     namespace 'com.libraryofCall.CallFloatingDialog'
+
     defaultConfig {
         minSdk 26
         targetSdk 36
@@ -19,27 +21,43 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
+
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_11
         targetCompatibility JavaVersion.VERSION_11
     }
+
+    // ✅ This is required to expose the release variant for publishing
+    publishing {
+        singleVariant("release")
+    }
 }
 
 dependencies {
-
     implementation 'androidx.appcompat:appcompat:1.7.1'
     implementation 'com.google.android.material:material:1.12.0'
     implementation 'androidx.activity:activity:1.8.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.2.1'
     implementation 'com.google.android.gms:play-services-ads:23.5.0'
-
     implementation 'com.facebook.android:audience-network-sdk:6.16.0'
     implementation 'com.facebook.android:facebook-android-sdk:16.3.0'
-
     implementation 'com.makeramen:roundedimageview:2.3.0'
 
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.5'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+}
 
+// ✅ Publication configuration
+afterEvaluate {
+    publishing {
+        publications {
+            release(MavenPublication) {
+                from components.release
+                groupId = 'com.github.Sandipdhanani' // your GitHub username
+                artifactId = 'CallerDialogService'   // your repo name
+                version = '1.0.0'
+            }
+        }
+    }
 }

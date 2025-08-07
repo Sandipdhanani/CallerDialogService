@@ -25,7 +25,7 @@
             <com.google.android.gms.ads.nativead.MediaView
                 android:id="@+id/ad_media"
                 android:layout_width="match_parent"
-                android:layout_height="150dp"
+                android:layout_height="160dp"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="2dp" />
 
@@ -64,6 +64,7 @@
                             android:textStyle="bold" />
 
                         <TextView
+                            android:id="@+id/txt_adtag"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="left"
@@ -106,8 +107,8 @@
                 android:id="@+id/ad_call_to_action"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@drawable/rounded_corner"
                 android:layout_marginTop="8dp"
+                android:background="@drawable/rounded_corner"
                 android:paddingVertical="10dp"
                 android:text="Install"
                 android:textColor="@color/white"
